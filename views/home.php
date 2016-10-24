@@ -8,7 +8,7 @@
     <body>
         <fieldset>
             <legend>Adicionar uma foto</legend>
-            <form method="POST" action="home" enctype="multipart/form-data">
+            <form method="POST" action="" enctype="multipart/form-data">
                 <input type="file" name="arquivo">
                 <br><br>
                 <input type="submit" name="arquivo" value="Enviar Arquivo">
